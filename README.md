@@ -10,9 +10,9 @@ Recommended settings:
 
 tested on 1920x1080
 
-Activate horizontal scrolling
-columns: 10
-space between elements: 37
+Activate horizontal scrolling.
+columns: 10. 
+space between elements: 37. 
 
 Before you begin, make sure to have the following Add-on installed for an optimal theme experience.
 
