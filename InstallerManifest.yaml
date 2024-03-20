@@ -1,8 +1,0 @@
-AddonId: TrailerLovers
-Packages:
-  - Version: 1.0
-    RequiredApiVersion: 2.3.0
-    ReleaseDate: 2024-14-03
-    PackageUrl: https://github.com/blooderscrew1/TrailerLovers/releases/tag/1.0.2
-    Changelog:
-      - First public release build
