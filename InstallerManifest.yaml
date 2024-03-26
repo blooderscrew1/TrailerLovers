@@ -1,4 +1,4 @@
-AddonId: TrailerLovers
+AddonId: 'TrailerLovers'
 Packages:
   - Version: 1.0
     RequiredApiVersion: 2.3.0
