@@ -7,6 +7,11 @@ InstallerManifestUrl: https://raw.githubusercontent.com/blooderscrew1/TrailerLov
 Packages:
     - Url: https://github.com/blooderscrew1/TrailerLovers/releases/download/1.0.2/TrailerLovers.zip
       Type: Theme
+      Version: 1.0.2
+      ReleaseDate: 2024-03-26
+      RequiredApiVersion: 8.0.0
+      Changelog: |
+        - First release of the theme.
 Tags: ["Theme", "Modern", "Trailer", "Logo", "Trailers", "Clean"]
 Links:
     GitHub: https://github.com/blooderscrew1/TrailerLovers
