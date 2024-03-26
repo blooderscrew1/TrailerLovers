@@ -4,7 +4,8 @@ Name: 'TrailerLovers'
 Author: 'Blooderscrew'
 ShortDescription: A modern fullscreen theme for Playnite for trailers in main screen.
 InstallerManifestUrl: https://github.com/blooderscrew1/TrailerLovers/blob/main/Manifest.yaml
-SourceUrl: https://github.com/blooderscrew1/TrailerLovers/releases/tag/1.0.2
+SourceUrl: https://github.com/blooderscrew1/TrailerLovers
+Packages: https://github.com/blooderscrew1/TrailerLovers/releases/tag/1.0.2
 Tags: ["Theme", "Modern", "Trailer", "Logo", "Trailers", "Clean"]
 Links:
     GitHub: https://github.com/blooderscrew1/TrailerLovers
