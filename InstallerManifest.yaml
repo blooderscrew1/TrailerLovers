@@ -1,4 +1,8 @@
-AddonId: Trailer_Lovers_75783a80-13cf-4796-8b6a-c9b96af5eb32
+
+ThemeApiVersion: 2.5.0
+Id: Trailer_Lovers_75783a80-13cf-4796-8b6a-c9b96af5eb32
+Author: darklinkpower
+Version: 2.55
 Packages:
   - Version: 1.0
     RequiredApiVersion: 2.3.0
